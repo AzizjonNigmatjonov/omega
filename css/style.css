@@ -653,6 +653,7 @@ body {
 @media(max-width: 992px) {
 	.container {
 		width: 960px;
+		background-color: red;
 	}
 }
 
